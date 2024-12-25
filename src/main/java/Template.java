@@ -4,6 +4,7 @@ public class Template {
 
 	public static void main(String[] args) {
 
+		System.out.println("Welcome to sorts");
 		int[] inputOriginal={23,34,54,43,12,8,6,45,89,112,145,165,123};
 		int[] input = inputOriginal.clone();
 		System.out.print("Before Sort\t\t");
